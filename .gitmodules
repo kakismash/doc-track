@@ -1,0 +1,9 @@
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/kakismash/doctrack-api-gateway.git
+[submodule "document-service"]
+	path = document-service
+	url = https://github.com/kakismash/doctrack-document-service.git
+[submodule "eureka-discovery"]
+	path = eureka-discovery
+	url = https://github.com/kakismash/doctrack-eureka-discovery.git
