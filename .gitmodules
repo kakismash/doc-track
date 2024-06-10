@@ -7,3 +7,6 @@
 [submodule "eureka-discovery"]
 	path = eureka-discovery
 	url = https://github.com/kakismash/doctrack-eureka-discovery.git
+[submodule "auth-microservice"]
+	path = auth-microservice
+	url = https://github.com/kakismash/doctrack-auth-service

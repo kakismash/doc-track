@@ -12,6 +12,7 @@
         <module>api-gateway</module>
         <module>document-service</module>
         <module>eureka-discovery</module>
+        <module>auth-microservice</module>
     </modules>
 
     <dependencyManagement>
