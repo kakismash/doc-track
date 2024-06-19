@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/auth-microservice/auth-service.iml" filepath="$PROJECT_DIR$/auth-microservice/auth-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../doctrack-frotnend/doctrack-frotnend.iml" filepath="$PROJECT_DIR$/../doctrack-frotnend/doctrack-frotnend.iml" />
     </modules>
   </component>
 </project>
