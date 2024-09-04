@@ -4,8 +4,8 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/api-gateway" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/auth-microservice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/doctrack-frotnend" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/document-service" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/eureka-discovery" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../doctrack-frotnend" vcs="Git" />
   </component>
 </project>
