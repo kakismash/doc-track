@@ -13,6 +13,7 @@
         <module>document-service</module>
         <module>eureka-discovery</module>
         <module>auth-microservice</module>
+        <module>location-service</module>
     </modules>
 
     <dependencyManagement>
@@ -21,7 +22,7 @@
             <dependency>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-dependencies</artifactId>
-                <version>3.3.1</version>
+                <version>3.3.4</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
