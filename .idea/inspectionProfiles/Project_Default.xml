@@ -17,6 +17,9 @@
           <option value="auth-doctrack-api" />
           <option value="X-Internal-Service" />
           <option value="X-Internal-Api-Key" />
+          <option value="X-User-Role" />
+          <option value="X-User-Name" />
+          <option value="X-User-Id" />
         </set>
       </option>
     </inspection_tool>
