@@ -2,6 +2,7 @@
 <project version="4">
   <component name="DiffGenerationConfig" isInitGenerateDdl="true">
     <option name="initGenerateDdl" value="true" />
-    <option name="sourceModelValue" value="organization:organization" />
+    <option name="sourceModelValue" value="auth-service:entityManagerFactory" />
+    <option name="targetDbValue" value="fa187f32-7bd6-4100-bbb7-4be6f74693c1" />
   </component>
 </project>
