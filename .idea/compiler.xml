@@ -7,17 +7,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="organization-service" />
         <module name="auth-service" />
         <module name="api-gateway-service" />
         <module name="eureka-server" />
         <module name="location-service" />
         <module name="document-service" />
-      </profile>
-      <profile name="Annotation profile for doctrack-parent" enabled="true">
-        <sourceOutputDir name="../../organization-service/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../../organization-service/target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="organization-service" />
       </profile>
     </annotationProcessing>
   </component>
@@ -25,7 +20,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="auth-service" options="-parameters" />
       <module name="location-service" options="-parameters" />
-      <module name="organization-service" options="-parameters -parameters" />
+      <module name="organization-service" options="-parameters" />
     </option>
   </component>
 </project>
