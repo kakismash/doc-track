@@ -78,6 +78,13 @@ Before starting :checkered_flag:, you need to have the following installed:
 - [Java 17+](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html)
 - PostgreSQL database
 
+## Modules:
+
+- [Doctrack-eureka-discovery-service](https://github.com/kakismash/doctrack-eureka-discovery.git)
+- [Doctrack-api-gateway-service](https://github.com/kakismash/doctrack-api-gateway.git)
+- [Doctrack-authorization-service](https://github.com/kakismash/doctrack-auth-service.git)
+
+
 ## :checkered_flag: Starting ##
 
 ```bash
