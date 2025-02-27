@@ -96,6 +96,7 @@ $ cd doc-track
 
 # Ensure PostgreSQL is running and properly configured.
 
+
 # Clone and initialize submodules (if present)
 $ git submodule update --init --recursive
 ```
