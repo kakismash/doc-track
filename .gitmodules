@@ -10,3 +10,9 @@
 [submodule "auth-microservice"]
 	path = auth-microservice
 	url = https://github.com/kakismash/doctrack-auth-service
+[submodule "organization-service"]
+	path = organization-service
+	url = https://github.com/kakismash/doctrack-organization-service.git
+[submodule "location-service"]
+	path = location-service
+	url = https://github.com/kakismash/doctrack-location-service.git
