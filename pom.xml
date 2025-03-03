@@ -10,12 +10,20 @@
 
     <modules>
         <module>api-gateway</module>
-        <module>document-service</module>
         <module>eureka-discovery</module>
         <module>auth-microservice</module>
-        <module>location-service</module>
         <module>organization-service</module>
+        <module>location-service</module>
+        <module>document-service</module>
+        <module>doctrack-frontend</module>
     </modules>
+
+    <properties>
+        <java.version>23</java.version>
+        <maven.compiler.source>${java.version}</maven.compiler.source>
+        <maven.compiler.target>${java.version}</maven.compiler.target>
+        <spring-cloud.version>2023.0.3</spring-cloud.version>
+    </properties>
 
     <dependencyManagement>
         <dependencies>
