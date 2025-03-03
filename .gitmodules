@@ -16,3 +16,6 @@
 [submodule "location-service"]
 	path = location-service
 	url = https://github.com/kakismash/doctrack-location-service.git
+[submodule "doctrack-frontend"]
+	path = doctrack-frontend
+	url = https://github.com/kakismash/doctrack-frotnend.git
