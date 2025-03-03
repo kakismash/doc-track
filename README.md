@@ -83,6 +83,10 @@ Before starting :checkered_flag:, you need to have the following installed:
 - [Doctrack-eureka-discovery-service](https://github.com/kakismash/doctrack-eureka-discovery.git)
 - [Doctrack-api-gateway-service](https://github.com/kakismash/doctrack-api-gateway.git)
 - [Doctrack-authorization-service](https://github.com/kakismash/doctrack-auth-service.git)
+- [Doctrack-frontend](https://github.com/kakismash/doctrack-frontend.git)
+- [Doctrack-organization-service](https://github.com/kakismash/doctrack-organization-service.git)
+- [Doctrack-location-service](https://github.com/kakismash/doctrack-location-service.git)
+- [Doctrack-document-service](https://github.com/kakismash/doctrack-document-service.git)
 
 
 ## :checkered_flag: Starting ##
